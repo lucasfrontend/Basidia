@@ -1,0 +1,50 @@
+{
+  "t": {
+    "en": "Spanish",
+    "es": "English"
+  },
+  "sidebar": {
+    "aboutme": "About me",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "iamlucas": {
+    "iam": "I'm",
+    "array": ["FullStack Developer", "App Developer", "Video Editor"]
+  },
+  "about": {
+    "idesign": "I design user interfaces and develop custom software. I program more than just responsive websites and mobile applications. I find and build digital solutions.",
+    "download": "Download CV",
+    "birthday": "Birthday:",
+    "july": "9 July 1986",
+    "adress": "Adress:",
+    "available": "Available",
+    "phone": "Phone",
+    "education": "Education",
+    "coder": "Development of complex, dynamic and scalable sites with Html, CSS, SASS, JS and React framework. Backend development with Nodejs, Npm, Express, Websockets, MongoDB, Mongoose, etc.",
+    "courseit": "Website creation with html, css, JS and React. Using git and github in collaborative projects.",
+    "experience": "Experience",
+    "jst": "Transport Safety Board",
+    "dev": "Web and App developer.",
+    "jst-description": "Development and maintenance of the organization's records management system. Localization of the government platform. Application development with Flutter.",
+    "sdch": "Skydive Chascomús",
+    "2019": "2019 - 2022",
+    "2020": "2021 - Present",
+    "dev-sdch": "Software developer",
+    "dev-sdch-": "Creation and development of a PWA (Design and coding of both frontend and backend). Flight management system, including bookings, payments to pilots and instructors, user accounts in pesos and dollars, jump counts for users, equipment status tracking. Rentals management. Folding management. Sale of tandem jump tickets, school, courses, etc.",
+    "coderhouse": "bla bla {linkcoder} 2022 - Present"
+  },
+  "portfolio": {
+    "go": "Go"
+  },
+  "contact": {
+    "contactme": "Contact Me",
+    "yourname": "Your name",
+    "youremail": "Your email",
+    "writeme": "Write me"
+  },
+  "404": {
+    "notfound": "Not Found",
+    "404description": "The resource requested could not be found on this server." 
+  }
+}
